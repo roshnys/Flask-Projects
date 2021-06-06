@@ -1,7 +1,7 @@
 
  
 
-### [ShortMe](http://shortme.biz/) - Project Link
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
