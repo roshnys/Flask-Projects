@@ -29,8 +29,7 @@
 
 A Flask web app and API used to shorten long URLs.
 
-#### Hosted Vesrsion
-[http://ShortMe/biz](http://shortme.biz/)
+
 
 #### How it Works
 When submitting a URL, it goes through a validity check and added http:// prefix in case it was not provided.  
